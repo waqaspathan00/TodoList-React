@@ -1,0 +1,38 @@
+.Todo{
+    margin: 1em 0;
+    overflow: auto;
+    padding: 1em 1em;
+    background-color: #90e3fc;
+    border-radius: 0.5em;
+    transition: all 0.3s ease-in-out;
+}
+
+.completed{
+    background-color: #44B7FC;
+    padding: 0.1em 1em
+}
+
+.completed p{
+    text-decoration: line-through;
+    color: red;
+}
+
+.Todo > *{
+    display: inline-block;
+}
+
+.Todo-name{
+    float: left;
+}
+
+.Todo-delete{
+    float: right;
+}
+
+.Todo-edit{
+    float: right;
+}
+
+.Todo-completion{
+    float: right;
+}

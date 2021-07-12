@@ -1,0 +1,16 @@
+.NewTodoForm-txt{
+    background-color: #CCF2F4;
+    height: 32px;
+    width: 8em;
+    font-size: 1em;
+    border-radius: 1em;
+    padding-left: 0.5em;
+    margin-right: 2em;
+}
+
+.NewTodoForm-btn{
+    height: 32px;
+    font-size: 0.75em;
+    border-radius: 1em;
+    background-color: lightgreen;
+}
