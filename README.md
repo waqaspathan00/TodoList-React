@@ -1,7 +1,5 @@
-# Purpose
-The purpose of this project was to practice and demonstrate knowledge of CRUD concepts. 
-
-This was also my first big React project so it allowed me to use all the concepts I learned from the [React course I took on udemy.com with Colt Steele](https://www.udemy.com/course/modern-react-bootcamp/).
+# What is it
+This project is a Todo List app where a user may add, delete, and edit things that they have TO DO
 
 # Images
 ### Start screen, no todos
@@ -29,9 +27,7 @@ After cloning the repository onto your machine, run the following two commands:
 `NewTodoForm` - renders input form for user to enter new todo
 `Todo` - renders Todo information with edit and delete button. Click to "complete" the todo.
 
-# How it works
+# Motivation
+My motivation for this project was to practice and demonstrate knowledge of CRUD concepts
 
-
-
-
-
+This was also my first big React project so it allowed me to use all the concepts I learned from the [React course I took on udemy.com with Colt Steele](https://www.udemy.com/course/modern-react-bootcamp/).
